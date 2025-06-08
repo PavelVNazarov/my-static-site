@@ -1,1 +1,2 @@
- https://pavelvnazarov.github.io/my-static-site/
+https://pavelvnazarov.github.io/my-static-site/   - ссылка на этот сайт
+https://PavelVNazarov.github.io/Pitateka/index.html - ссылка на сайт "Питатека"
