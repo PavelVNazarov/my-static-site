@@ -1,2 +1,3 @@
 https://pavelvnazarov.github.io/my-static-site/   - ссылка на этот сайт
 https://PavelVNazarov.github.io/Pitateka/index.html - ссылка на сайт "Питатека"
+http://19pavel76.tilda.ws/ - сайт на Тильда
